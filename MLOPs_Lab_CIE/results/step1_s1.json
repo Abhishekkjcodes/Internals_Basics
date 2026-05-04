@@ -1,0 +1,20 @@
+{
+    "experiment_name": "adpulse-click-through-rate",
+    "models": [
+        {
+            "name": "Ridge",
+            "mae": 0.8690051154013089,
+            "rmse": 0.9797770581208626,
+            "r2": 0.6229548111166733
+        },
+        {
+            "name": "GradientBoosting",
+            "mae": 1.1784910716141481,
+            "rmse": 1.534458305892756,
+            "r2": 0.07519737011736549
+        }
+    ],
+    "best_model": "Ridge",
+    "best_metric_name": "mae",
+    "best_metric_value": 0.8690051154013089
+}

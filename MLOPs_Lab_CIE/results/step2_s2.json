@@ -1,0 +1,13 @@
+{
+    "search_type": "random",
+    "n_folds": 5,
+    "total_trials": 10,
+    "best_params": {
+        "n_estimators": 100,
+        "max_depth": 3,
+        "learning_rate": 0.2
+    },
+    "best_mae": 1.2583859796185544,
+    "best_cv_mae": 0.981701724066084,
+    "parent_run_name": "tuning-adpulse"
+}
